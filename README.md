@@ -5,5 +5,3 @@ Hello<br>
   My name is Jonathan Borhgese<br>
   I have a BS in Computer Engineering from Virginia Tech<br>
   This Github is a collection of my personal AI projects<br>
- 
-You can reach me here: <a>JonathanBorghese@gmail.com</a>
