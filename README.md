@@ -4,4 +4,5 @@
 Hello<br>
   My name is Jonathan Borhgese<br>
   I have a BS in Computer Engineering from Virginia Tech<br>
-  This Github is a collection of some of my personal projects<br>
+  This is my professional github account<br>
+  Here is my secondary account: <a href='github.com/jpborghese'>github.com/jpborghese</a>
